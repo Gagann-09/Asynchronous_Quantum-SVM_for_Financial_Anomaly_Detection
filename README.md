@@ -51,7 +51,7 @@ We strictly benchmarked the Noisy QSVM against a classical Radial Basis Function
 
 ## Local Setup & Reproducibility (Free Stack)
 
-Run the .bat file to start the application.
+First run the dataloader.py to get 20 features of fraud and clean data, then run the train_noisy_model.py to train the noisy qsvm model. Then run the .bat file to start the application.
 
 This whole stack runs locally for $0 costs on standard CPU compute. Redis is required.
 
