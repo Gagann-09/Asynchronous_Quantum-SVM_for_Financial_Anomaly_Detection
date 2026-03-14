@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pydantic
+celery
+redis
+qiskit==1.0.0
+qiskit-aer
+scikit-learn
+joblib
+pandas
